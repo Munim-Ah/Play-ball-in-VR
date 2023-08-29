@@ -6,7 +6,7 @@ You can open the project with unity version 2019.4.3f1 or higher.
 
 The main task of the game is to throw the ball and kill the characters to earn scores. killing all of the
 characters means, you have won the game. You can see the earning scores leveled as "Count" while you are in VR(wearing HMD).
-After collecting all of the boxes, "Congratulations,you win!" text message will be appeared to confirm your winning.
+After killing all of the characters, "Congratulations,you win!" text message will be appeared to confirm your winning.
 
 In practice, It is not easy to kill all of the characters. Because there are few barriers which makes it 
 harder. while playing the game, be aware of not hitting the "Blue boxes" and the two human characters. Because, every time
