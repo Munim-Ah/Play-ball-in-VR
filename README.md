@@ -19,3 +19,4 @@ scores which you have earned previously.
 It is possible to controll or throw the ball by using both "Oculus Rift(HMD) controllers" and the arrow keys of PC's keyboard.
 in case of controllers, the left thumbstick controlls the ball. For grabbing, use the grip button (any of them or both left and right buttons).  
 
+*To play the game directly, open the /build folder and find /play-ball-in-VR.exe file.* 
