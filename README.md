@@ -1,6 +1,6 @@
 You can open the project with unity version 2019.4.3f1 or higher.
 
-Playing instructions:
+#Playing instructions:
 
 *It is necessary to use the Oculus Rift(HMD) and controllers*
 
@@ -14,7 +14,7 @@ when the Ball collide with the human or with the blue boxes, The game starts fro
 scores which you have earned previously. 
 
 
-*How to controll/throw the Ball?*
+#How to controll/throw the Ball?
 
 It is possible to controll or throw the ball by using both "Oculus Rift(HMD) controllers" and the arrow keys of PC's keyboard.
 in case of controllers, the left thumbstick controlls the ball. For grabbing, use the grip button (any of them or both left and right buttons).  
